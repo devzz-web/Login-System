@@ -10,9 +10,9 @@ class Login_System:
         #======All Images==========
         self.bg_icon=ImageTk.PhotoImage(file="images/bg.jpg")
 
-        self.user_icon=ImageTk.PhotoImage(file="images\man_user.jpg")
-        self.pass_icon=ImageTk.PhotoImage(file="images\password.jpg")
-        self.logo_icon=ImageTk.PhotoImage(file="images\logo.jpg")
+        self.user_icon=ImageTk.PhotoImage(file="images/man_user.jpg")
+        self.pass_icon=ImageTk.PhotoImage(file="images/password.jpg")
+        self.logo_icon=ImageTk.PhotoImage(file="images/logo.jpg")
         #=====variables=====
         self.uname=StringVar()
         self.pass_=StringVar()
